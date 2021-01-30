@@ -1,0 +1,8 @@
+*.txt
+*.iml
+.idea
+target
+log
+build
+*.log
+lib/
